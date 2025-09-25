@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@orpc/arktype": "^1.9.0",
+    "@orpc/client": "^1.9.0",
+    "@orpc/openapi": "^1.9.0",
+    "@orpc/server": "^1.9.0",
+    "@orpc/zod": "^1.9.0",
+    "arktype": "^2.1.22",
+    "zod": "^4.1.11"
+  }
+}
